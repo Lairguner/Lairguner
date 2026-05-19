@@ -1,16 +1,60 @@
-## Hi there 👋
+# Eduardo Brandon Flores Ramirez
 
-<!--
-**Lairguner/Lairguner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on scalable systems, ERP platforms, CRM solutions and REST APIs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+### Backend
+- Laravel
+- PHP
+- Python
+- REST APIs
+
+### Frontend
+- Angular
+- Next.js
+- JavaScript
+
+### Database
+- MySQL
+
+### Tools
+- Docker
+- Git / GitHub
+
+### Architecture
+- Modular architecture
+- Process automation
+- Business-oriented systems
+
+---
+
+## Main Projects
+
+### Marketplace Platform
+Scalable marketplace platform focused on operational workflows and REST APIs.
+
+### CRM Management System
+Enterprise CRM focused on customer management and operational automation.
+
+### Next.js Landing Page
+Modern responsive landing page built with Next.js and clean UI architecture.
+
+---
+
+## Specialization
+
+- ERP systems
+- CRM platforms
+- REST APIs
+- Automation workflows
+- Scalable architectures
+- Full Stack Development
+
+---
+
+## Currently
+
+Building scalable business platforms and improving development workflows with AI-assisted tools.
